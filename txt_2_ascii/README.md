@@ -66,7 +66,7 @@ Repeated use of `1. ` will be replaced with `1.`, `2.`, `3.`, etc.
 * **Example**: `1. Hello1. World` will be converted to `1. Hello2. World`
 
 Roman numerals will be converted to arabic numerals.
-* **Example**: `I. Hello` will be converted to `1. Hello`
+* **Example**: `WW II` will be converted to `WW 2`
 
 </details>
 
