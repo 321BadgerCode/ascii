@@ -81,9 +81,9 @@ You can use your own ascii art fonts by creating a text file with the ascii art 
 	- `[\s]+$` is a regex that matches all whitespace at the end of a line in case the ascii art font has unnecessary whitespaces.
 	- For periods, commas, etc., you can add newlines with spaces before the text so it will be display lower like this:
 ```
-
-
-
+<spaces>
+<spaces>
+<spaces>
 ( )
 |/
 ```
